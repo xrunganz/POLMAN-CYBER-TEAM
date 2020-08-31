@@ -89,7 +89,7 @@ def login():
 	print("     {}|-------------------------------------|   ").format(CC)
 	print("     {}|         {}<--D A R K  FB-->          {} |   ").format(CC,GG,CC)
         print("     {}|-------------------------------------|   ").format(CC)
-        print("     {}|   {} AUTHOR    {}:{}  Xploit-Nahrun Ganz     {} |   ").format(CC,GG,CC,GG,CC)
+        print("     {}|   {} AUTHOR    {}:{}  Xploit-Nahrun Ganz  {} |   ").format(CC,GG,CC,GG,CC)
         print("     {}|   {} facebook  {}: {}   Nahrun Ganz      {}  |   ").format(CC,GG,CC,BB,CC)
         print("     {}|   {} Youtube   {}:{} Anonymous Indonesia       {}   |   ").format(CC,GG,CC,RR,CC)
         print("     {}|-------------------------------------|   ").format(CC)
